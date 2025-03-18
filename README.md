@@ -1,22 +1,18 @@
-# Hands_on-08
+This repository contains a Python implementation of the quicksort algorithm and the i-th order statistic using the Quickselect method. The code demonstrates how to leverage quicksort to determine the i-th smallest element in an array efficiently.
 
-# Quicksort with i-th Order Statistic
+##Features
+Quicksort Algorithm: A recursive sorting algorithm that uses divide-and-conquer.
 
-This repository contains a Python implementation of the quicksort algorithm and the i-th order statistic using the Quickselect method.
+Quickselect Algorithm: A variation of quicksort to find the i-th smallest element without fully sorting the array.
 
-## Features
-- Quicksort implementation for sorting arrays.
-- Quickselect algorithm for finding the i-th smallest element efficiently.
+##How It Works
+Quicksort: The array is recursively partitioned around a pivot, sorting the array in ascending order.
 
-## Usage
-1. Clone this repository:
-    ```
-    git clone https:(https://github.com/Abdullah007noman/Hands_on-08)
-    ```
-2. Run the script:
-    ```
-    python quicksort_ith_order_statistic.py
-    ```
+i-th Order Statistic (Quickselect):
 
-## Example Output
-For an array `[3, 6, 8, 10, 1, 2, 1]` and `i = 4`, the output will be:
+Instead of sorting the entire array, Quickselect focuses on finding the desired element by partially partitioning the array.
+
+This reduces unnecessary computation and improves efficiency.
+
+##Example Usage
+The script includes an example to demonstrate its functionality. For an input array [3, 6, 8,nd i = 4, the program finds the element that would be at index 4` if the array were sorted.
