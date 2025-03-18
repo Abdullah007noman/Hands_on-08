@@ -5,12 +5,8 @@ This repository contains a Python implementation of the quicksort algorithm and 
   * Quickselect Algorithm: A variation of quicksort to find the i-th smallest element without fully sorting the array.
 
 ## How It Works
-  * 1.Quicksort: The array is recursively partitioned around a pivot, sorting the array in ascending order.
-  * 2.i-th Order Statistic (Quickselect):
+  * Quicksort: The array is recursively partitioned around a pivot, sorting the array in ascending order.
+  * i-th Order Statistic (Quickselect):
+       * Instead of sorting the entire array, Quickselect focuses on finding the desired element by partially partitioning the array.
+       * This reduces unnecessary computation and improves efficiency.
 
-Instead of sorting the entire array, Quickselect focuses on finding the desired element by partially partitioning the array.
-
-This reduces unnecessary computation and improves efficiency.
-
-## Example Usage
-The script includes an example to demonstrate its functionality. For an input array [3, 6, 8,nd i = 4, the program finds the element that would be at index 4` if the array were sorted.
