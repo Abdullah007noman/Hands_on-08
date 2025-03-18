@@ -15,7 +15,7 @@ A Python implementation of the quicksort algorithm and the i-th order statistic 
        * Instead of sorting the entire array, Quickselect focuses on finding the desired element by partially partitioning the array.
        * This reduces unnecessary computation and improves efficiency.
 
-#  2. Implementation of stack,queue and singly limk list
+#  2. Implementation of stack,queue and singly link list
 
 This program contains a Python implementation of three fundamental data structures: Stack, Queue, and Singly Linked List. The implementation adheres to the following constraints:
 
