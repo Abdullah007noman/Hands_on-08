@@ -3,7 +3,7 @@
 * Implementation of stack,queue and singly limk list
 
 
-## Quick sort with ith order static
+## 1. Quick sort with ith order static
 A Python implementation of the quicksort algorithm and the i-th order statistic using the Quickselect method. The code demonstrates how to leverage quicksort to determine the i-th smallest element in an array efficiently.
 ## Features
   * Quicksort Algorithm: A recursive sorting algorithm that uses divide-and-conquer.
@@ -15,7 +15,7 @@ A Python implementation of the quicksort algorithm and the i-th order statistic 
        * Instead of sorting the entire array, Quickselect focuses on finding the desired element by partially partitioning the array.
        * This reduces unnecessary computation and improves efficiency.
 
-#  Implementation of stack,queue and singly limk list
+#  2. Implementation of stack,queue and singly limk list
 
 This program contains a Python implementation of three fundamental data structures: Stack, Queue, and Singly Linked List. The implementation adheres to the following constraints:
 
