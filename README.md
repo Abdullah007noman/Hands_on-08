@@ -11,7 +11,7 @@ This repository contains a Python implementation of the quicksort algorithm and 
 ## Usage
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/quicksort-ith-order-statistic.git
+    git clone https:(https://github.com/Abdullah007noman/Hands_on-08)
     ```
 2. Run the script:
     ```
