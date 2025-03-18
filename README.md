@@ -1,9 +1,9 @@
 ## This repository contains two different implementations:
-* Quick sort with ith order static
+* Quick sort with ith order statistic
 * Implementation of stack,queue and singly limk list
 
 
-## 1. Quick sort with ith order static
+## 1. Quick sort with ith order statistic
 A Python implementation of the quicksort algorithm and the i-th order statistic using the Quickselect method. The code demonstrates how to leverage quicksort to determine the i-th smallest element in an array efficiently.
 ## Features
   * Quicksort Algorithm: A recursive sorting algorithm that uses divide-and-conquer.
