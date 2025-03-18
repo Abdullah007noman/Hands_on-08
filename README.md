@@ -1,9 +1,10 @@
 ## This repository contains two different implementations:
-* A Python implementation of the quicksort algorithm and the i-th order statistic using the Quickselect method. The code demonstrates how to leverage quicksort to determine the i-th smallest element in an array efficiently.
+* Quick sort with ith order static
 * 
 
 
 ## Quick sort with ith order static
+A Python implementation of the quicksort algorithm and the i-th order statistic using the Quickselect method. The code demonstrates how to leverage quicksort to determine the i-th smallest element in an array efficiently.
 ## Features
   * Quicksort Algorithm: A recursive sorting algorithm that uses divide-and-conquer.
   * Quickselect Algorithm: A variation of quicksort to find the i-th smallest element without fully sorting the array.
