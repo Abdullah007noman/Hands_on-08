@@ -1,6 +1,6 @@
 ## This repository contains two different implementations:
 * Quick sort with ith order statistic
-* Implementation of stack,queue and singly limk list
+* Implementation of stack,queue and singly link list
 
 
 ## 1. Quick sort with ith order statistic
